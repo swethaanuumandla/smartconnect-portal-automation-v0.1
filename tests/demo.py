@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 # Chrome Browser
 # service_obj = Service("C://Users//sweth//OneDrive//Desktop//webdrivers//chromedriver.exe")
 # driver = webdriver.Chrome(service=service_obj)
+# Added comment
 
 # Firefox Browser
 # service_obj = Service("C://Users//sweth//OneDrive//Desktop//webdrivers//geckodriver.exe")
